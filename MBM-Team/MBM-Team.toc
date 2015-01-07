@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: MBM-Team
+## Author: MultiBoxMaster Contributors
+## Version: 1.0
+## eMail: lax@lavishsoft.com
+## URL: https://github.com/Dual-Boxing/MultiBoxMaster
+## DefaultState: Enabled
+## LoadOnDemand: 1
+MBM-Team.lua

@@ -1,0 +1,13 @@
+## Interface: 60000
+## Title: MultiBoxMaster
+## Author: MultiBoxMaster Contributors
+## Version: 1.0
+## eMail: lax@lavishsoft.com
+## URL: https://github.com/Dual-Boxing/MultiBoxMaster
+## DefaultState: Enabled
+## LoadOnDemand: 0
+MultiBoxMaster.lua
+
+local/MBM-localCharacter.lua
+local/MBM-localTeam.lua
+local/MBM-local.lua
